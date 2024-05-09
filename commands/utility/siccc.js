@@ -5,6 +5,6 @@ module.exports = {
 		.setName('pajan')
 		.setDescription('k ya vere'),
 	async execute(interaction) {
-		await interaction.reply(`q te pudras imbécil`);
+		await interaction.reply(`el g one`);
 	},
 };
