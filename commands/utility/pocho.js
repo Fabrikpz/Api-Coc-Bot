@@ -5,6 +5,6 @@ module.exports = {
 		.setName('pochin')
 		.setDescription('el bea one'),
 	async execute(interaction) {
-		await interaction.reply(`SEXY DOG`);
+		await interaction.reply(`the chad one`);
 	},
 };
